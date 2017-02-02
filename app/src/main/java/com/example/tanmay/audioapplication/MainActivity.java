@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
     private boolean permission() {
 
         // Check for Permission here
-
+        return false;
     }
 
     private void request() {
