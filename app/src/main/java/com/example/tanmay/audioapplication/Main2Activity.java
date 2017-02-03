@@ -13,12 +13,11 @@ public class Main2Activity extends AppCompatActivity {
 
     VideoView videoView;
     MediaController mediaController;
-    String videoID = "kOkQ4T5WO9E";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
     }
-    
+
 }
